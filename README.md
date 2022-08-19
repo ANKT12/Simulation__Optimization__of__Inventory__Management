@@ -1,1 +1,1 @@
-# simulation-and-optmization-
+Simulation_Optimization_of_Inventory_Management
