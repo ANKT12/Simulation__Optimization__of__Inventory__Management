@@ -6,3 +6,5 @@ Simulation_Optimization_of_Inventory_Management
 • Analyzed the main and interaction effect of critical factors such as the value of S, s, and cycle service level (CSL)
 
 • Implemented simulation optimization to calculate maximum mean monthly profit such that CSL>95%
+
+colaborators: https://github.com/RohitRamSharma
